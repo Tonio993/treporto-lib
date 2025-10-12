@@ -1,6 +1,6 @@
 package it.traininground.treporto.enums;
 
-public enum TipoTrasporto {
+public enum TransportType {
 
     CARICO,
     SCARICO
