@@ -11,11 +11,9 @@ import java.math.BigDecimal;
 @Data
 public class GoodsTransportModel extends BaseModel {
 
-    private Long idInvoiceSection;
+    private TransportType type;
 
-    private TransportType transportType;
-
-    private GoodsModel goods;
+    private Long idGoods;
 
     private BigDecimal amount;
 

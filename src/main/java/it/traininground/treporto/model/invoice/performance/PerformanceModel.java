@@ -11,7 +11,7 @@ import java.math.BigDecimal;
 @Data
 public class PerformanceModel extends BaseModel {
 
-    private Long idInvoiceSection;
+    private Long idSection;
 
     private Long idActivity;
 
