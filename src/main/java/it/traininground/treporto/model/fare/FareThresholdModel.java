@@ -11,8 +11,6 @@ import java.math.BigDecimal;
 @Data
 public class FareThresholdModel extends BaseModel {
 
-    private Long idFare;
-
     private Integer threshold;
 
     private BigDecimal price;

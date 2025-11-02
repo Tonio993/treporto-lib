@@ -19,7 +19,7 @@ public class FareModel extends BaseModel {
 
     private List<FareThresholdModel> fareThresholdList;
 
-    private Integer extraFareThreshold;
+    private Integer extraThreshold;
 
     private BigDecimal extraPrice;
 
